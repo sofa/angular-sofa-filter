@@ -1,6 +1,6 @@
 {
     "name": "angular-sofa-filter",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "description": "Sofa Web SDK filter component.",
     "main": "dist/sofaFilter.js",
     "homepage": "http://www.sofa.io",
