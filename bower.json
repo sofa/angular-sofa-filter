@@ -1,0 +1,24 @@
+{
+    "name": "angular-sofa-filter",
+    "version": "0.1.0",
+    "homepage": "http://www.sofa.io",
+    "authors": [
+        "Pascal Precht <pascal@couchcommerce.com>"
+    ],
+    "description": "Sofa Web SDK filter component.",
+    "main": "dist/sofaFilter.js",
+    "dependencies": {
+        "sofa-core": "0.15.1"
+    },
+    "resolutions": {
+        "sofa-core": "0.15.1"
+    },
+    "keywords": [
+        "sofa",
+        "sofa.io",
+        "web",
+        "sdk",
+        "service"
+    ],
+    "license": "GPL"
+}
